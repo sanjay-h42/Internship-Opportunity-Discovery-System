@@ -1,0 +1,34 @@
+============================================================
+Recommendation Run: 2026-01-26 13:53:14.400455
+User Profile: {'skills': 'FrontEnd designer', 'education': 'me', 'location': 'Chennai', 'stipend': '', 'mode': '', 'duration': '', 'sector': 'engineering'}
+
+1. Frontend Developer
+   Company: YourTribe
+   Location: Chennai, Tamil Nadu
+   Salary: None - None
+   URL: https://www.adzuna.in/land/ad/5577826011?se=xsJYPJD68BGss-eT9GMJeQ&utm_medium=api&utm_source=a154d375&v=5B2E662F6A89561C87C69121F57D073BE670F415
+
+2. Frontend Developer | Chennai, IN
+   Company: Photon Group
+   Location: Chennai, Tamil Nadu
+   Salary: None - None
+   URL: https://www.adzuna.in/details/4801408019?utm_medium=api&utm_source=a154d375
+
+3. React & Node Developer
+   Company: iAgami Technologies
+   Location: Chennai, Tamil Nadu
+   Salary: 200000 - 1200000
+   URL: https://www.adzuna.in/details/5365274354?utm_medium=api&utm_source=a154d375
+
+4. UI/UX Designer
+   Company: PAVONIAN SOLUTIONS PRIVATE LIMITED
+   Location: Chennai, Tamil Nadu
+   Salary: 200000 - 500000
+   URL: https://www.adzuna.in/details/1752711982?utm_medium=api&utm_source=a154d375
+
+5. Senior UX/UI designer
+   Company: Grundfos
+   Location: Chennai, Tamil Nadu
+   Salary: None - None
+   URL: https://www.adzuna.in/details/5462151371?utm_medium=api&utm_source=a154d375
+
